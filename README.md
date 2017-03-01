@@ -5,6 +5,8 @@ Research into the wonderful world of Mathematics, Programming, and Finance.
 
 http://seekingalpha.com/
 
+https://coderwall.com/
+
 # Blogs 
 
 http://www.jonathankinlay.com/
