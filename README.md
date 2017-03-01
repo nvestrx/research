@@ -1,4 +1,4 @@
-# research
+# Research by Nvestr X
 Research into the wonderful world of Mathematics, Programming, and Finance. 
 
 # Reading Material
