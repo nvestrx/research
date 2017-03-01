@@ -7,15 +7,11 @@ http://seekingalpha.com/
 
 # Blogs 
 
-http://epchan.blogspot.in/
-
 http://www.jonathankinlay.com/
 
 http://quantivity.wordpress.com/
 
 https://www.quantnet.com/
-
-http://www.thewholestreet.com/
 
 http://nuclearphynance.com/
 
