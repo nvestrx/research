@@ -59,7 +59,8 @@ UBS, largest private banker (Swiss), was fined for currency manipulation in 2014
 
 There are several examples of modern currency manipulation, including the Swiss france drop in 2007-2008, the Japanese fight against deflation, and of course Chinese manipulation of their yuan against our dollar. 
 
-1. **Swiss france**
+1. **Swiss franc**
+
 The fran appreciated during the 08 crisis due to a flight to safety and to the repayment of Swiss franc liabilities funding carry trades in high yielding currencies. 
 
 In 2009, the Swiss National Bank announced that it intended to buy foreign exchange to prevent the Swiss france from appreciating further. 
