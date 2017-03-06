@@ -6,9 +6,11 @@
 # Pros and Cons of Strong Currency
 
 ## Pros
+
 1. Travelling abroad is cheaper. Encourages vacations in other countries. 
 2. Imports are cheaper. Goods produced abroad and imported will be cheaper if the manufacturers currency falls in value. Luxury cars from Europe will fall in price. Companies that import raw materials will have lower cost of production, and thus enjoy more profit. 
 3. The status of the dollar as a world reserve currency is bolstered. Since demand is high worldwide, it will be accepted and converted just about anywhere, which is powerful. 
+
 ## Cons
 
 1. Tourism to the US is expensive, it's harder to come here from a poorer country and more expensive to live here. 
