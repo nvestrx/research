@@ -19,11 +19,9 @@ https://coderwall.com/
 
 # Blogs 
 
-http://www.jonathankinlay.com/
+https://www.ssrn.com/en/
 
-http://quantivity.wordpress.com/
-
-https://www.quantnet.com/
+https://arxiv.org/archive/q-fin
 
 http://nuclearphynance.com/
 
