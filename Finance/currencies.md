@@ -59,7 +59,7 @@ UBS, largest private banker (Swiss), was fined for currency manipulation in 2014
 
 There are several examples of modern currency manipulation, including the Swiss france drop in 2007-2008, the Japanese fight against deflation, and of course Chinese manipulation of their yuan against our dollar. 
 
-1. Swiss france
+1. **Swiss france**
 The fran appreciated during the 08 crisis due to a flight to safety and to the repayment of Swiss franc liabilities funding carry trades in high yielding currencies. 
 
 In 2009, the Swiss National Bank announced that it intended to buy foreign exchange to prevent the Swiss france from appreciating further. 
@@ -70,13 +70,13 @@ Unfortunately it continued to go up, causing the SNB to step in once again and i
 
 In 2015, the SNB dropped its commitment to hold the SFr at the fixed exchange rate, and thus the SFr soared, causing the Euro to fall 40% in value compared to the SFr. Investors flocked to the franc, driving up its value, which is bad, because the Swiss economy is heavily reliant on selling things abroad. To lower the francs value, the SNB created new francs and used them to buy Euros. 
 
-2. Japanese yen
+2. **Japanese yen**
 
 From 1989-2003, Japan suffered from deflation. As deflation preogressed, unemployment rose, confidence in finance declines, and banks failed. 
 
 Devaluation of the yen continued by the Bank of Japan, in order to re-invigorate the market. In 2013, Japan announced its intentions of purposefully devaluing the yen, criticized by the US, after Group of Seven economies jointly intervened to weaken the currency in the aftermath of the record earthquake and tsunami that year. 
 
-3. Chinese yuan
+3. **Chinese yuan**
 
 Chinas central bank has allegedly devalued the yuan by buying large amounts of US dollars with yuan, increasing supply of yuan and increasing demand for US dollars. They hold roughly $3.3 trillion at their foreign exchange, and 60% of it is in US government bonds and debentures. 
 
