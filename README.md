@@ -11,6 +11,12 @@ Research into the wonderful world of Mathematics, Programming, and Finance.
 
 6. Identify the edges of current human knowledge in these areas to potentially provide grounds for a doctoral thesis. 
 
+
+
+https://www.quandl.com/api/v3/datatables/WIKI/PRICES.json?api_key=xNSxrMU_zRKHVD-7TKxJ
+
+
+
 # Reading Material
 
 http://seekingalpha.com/
